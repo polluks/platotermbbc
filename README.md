@@ -1,2 +1,2 @@
-# platotermx11
-PLATOTerm for X11
+# platotermoric
+PLATOTerm for Oric Atmos
