@@ -1,2 +1,2 @@
-# platotermoric
-PLATOTerm for Oric Atmos
+# platotermbbc
+PLATOTerm for BBC Micro
